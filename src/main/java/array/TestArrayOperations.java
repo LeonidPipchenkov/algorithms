@@ -1,3 +1,5 @@
+package array;
+
 public class TestArrayOperations {
 
     public static void main(String[] args) {
