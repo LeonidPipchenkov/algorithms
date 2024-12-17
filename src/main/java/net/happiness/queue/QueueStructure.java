@@ -1,4 +1,4 @@
-package queue;
+package net.happiness.queue;
 
 public class QueueStructure extends AbstractQueueStructure {
 

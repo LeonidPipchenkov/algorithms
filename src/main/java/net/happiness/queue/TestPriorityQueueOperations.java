@@ -1,6 +1,6 @@
-package queue;
+package net.happiness.queue;
 
-import util.Util;
+import net.happiness.util.Util;
 
 public class TestPriorityQueueOperations {
 

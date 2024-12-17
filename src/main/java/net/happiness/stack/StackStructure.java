@@ -1,4 +1,4 @@
-package stack;
+package net.happiness.stack;
 
 import java.util.Arrays;
 

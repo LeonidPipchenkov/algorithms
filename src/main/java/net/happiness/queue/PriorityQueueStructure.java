@@ -1,4 +1,4 @@
-package queue;
+package net.happiness.queue;
 
 import org.apache.commons.lang3.StringUtils;
 

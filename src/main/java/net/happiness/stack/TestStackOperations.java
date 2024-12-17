@@ -1,6 +1,6 @@
-package stack;
+package net.happiness.stack;
 
-import util.Util;
+import net.happiness.util.Util;
 
 public class TestStackOperations {
 

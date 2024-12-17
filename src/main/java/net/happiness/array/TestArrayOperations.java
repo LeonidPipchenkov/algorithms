@@ -1,4 +1,4 @@
-package array;
+package net.happiness.array;
 
 public class TestArrayOperations {
 
