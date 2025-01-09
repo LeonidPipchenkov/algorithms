@@ -1,4 +1,4 @@
-package net.happiness.linkedlist;
+package net.happiness.linkedlist.unidirectional;
 
 import net.happiness.util.Util;
 
@@ -6,7 +6,6 @@ public class TestLinkedListOperations {
 
     public static void main(String[] args) {
         LinkedListStructure linkedList = new LinkedListStructure();
-        Util.print(linkedList.toArray());
 
         linkedList.add("10");
         linkedList.add("15");
@@ -22,7 +21,6 @@ public class TestLinkedListOperations {
         Util.print(linkedList.toArray());
 
         System.out.println(linkedList.size());
-
         System.out.println(linkedList.isEmpty());
         System.out.println(linkedList.isNotEmpty());
 
